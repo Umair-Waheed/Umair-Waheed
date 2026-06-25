@@ -2,7 +2,7 @@
  <img align="right" height="150" src="https://erkunal.in/_nuxt/img/about-dev.d3b6fdf.gif"  />
 
  🔭 I’m graduated in Computer Science <br>
- 🌱 I’m currently learning and working on Full Stack Development(MERN Stack), and AI <br>
+ 🌱 I’m currently learning or building project for Full Stack Development(MERN Stack), and AI <br>
  💬 Ask me anything about WEB DEVELOPMENT  <br>
  📫 Reach me on: [Linkedin](https://www.linkedin.com/in/umair-wahed1)  <br>
  ⚡ Fun fact: "coffee enthusiast who loves solving coding challenges"  <br>
