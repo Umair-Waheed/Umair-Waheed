@@ -1,10 +1,10 @@
 ## Assalam o alikum 👋,I'm Umair Waheed 
  <img align="right" height="150" src="https://erkunal.in/_nuxt/img/about-dev.d3b6fdf.gif"  />
 
- 🔭 I’m currently working on MERN STACK PROJECTS <br>
- 🌱 I’m currently learning more about MERN STACK  <br>
+ 🔭 I’m graduated in Computer Science <br>
+ 🌱 I’m currently learning and working on Full Stack Development(MERN Stack), and AI <br>
  💬 Ask me anything about WEB DEVELOPMENT  <br>
- 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/umair-waheed1)  <br>
+ 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/umair-wahed1)  <br>
  ⚡ Fun fact: "coffee enthusiast who loves solving coding challenges"  <br>
  
 ## Tools & Technologies 
