@@ -10,7 +10,7 @@
 
 💬 Ask me about **MERN Stack, REST APIs, AI integrations, Azure, or anything web development**.
 
-📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/umair-wahed1) | [Email](mailto:umairmughal78601@gmail.com)
+📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/umair-wahed1).
 
 ⚡ Fun fact: Coffee enthusiast who loves turning ideas into real products.
 
@@ -44,10 +44,7 @@
 - ✅ MERN Stack Development — ApnaCollege, 2024
 - ✅ Data Structures & Algorithms (250+ problems in Java) — ApnaCollege, 2023
   
-<br>
-
 ###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Umair-Waheed/Umair-Waheed/output/snake.svg" alt="Snake animation" />
